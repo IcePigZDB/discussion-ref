@@ -1,0 +1,1632 @@
+[qSkipTool]2021/12/29 01:45:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640742332864,
+ RegionID: (uint64) 130,
+ PeerID: (uint64) 131,
+ StoreID: (uint64) 3,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 58,
+ FlowBytes: (float64) 83888,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 402,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffq\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xfft\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 01:45:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640742332864,
+ RegionID: (uint64) 157,
+ PeerID: (uint64) 182,
+ StoreID: (uint64) 3,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 58,
+ FlowBytes: (float64) 84567,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 405,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff\x8f\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff\x92\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 01:45:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640742332864,
+ RegionID: (uint64) 145,
+ PeerID: (uint64) 146,
+ StoreID: (uint64) 3,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 58,
+ FlowBytes: (float64) 85081,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 407,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff\x80\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff\x83\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 01:45:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640742332864,
+ RegionID: (uint64) 183,
+ PeerID: (uint64) 184,
+ StoreID: (uint64) 3,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 58,
+ FlowBytes: (float64) 84786,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 406,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff\x98\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff\x9b\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 01:45:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640742332864,
+ RegionID: (uint64) 163,
+ PeerID: (uint64) 164,
+ StoreID: (uint64) 3,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 58,
+ FlowBytes: (float64) 85351,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 409,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff\x95\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff\x98\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 01:45:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640742332864,
+ RegionID: (uint64) 149,
+ PeerID: (uint64) 181,
+ StoreID: (uint64) 3,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 58,
+ FlowBytes: (float64) 85109,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 407,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff\x86\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff\x89\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 01:45:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640742332864,
+ RegionID: (uint64) 154,
+ PeerID: (uint64) 155,
+ StoreID: (uint64) 3,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 58,
+ FlowBytes: (float64) 85770,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 410,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff\x8c\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff\x8f\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 01:45:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640742332864,
+ RegionID: (uint64) 143,
+ PeerID: (uint64) 144,
+ StoreID: (uint64) 3,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 58,
+ FlowBytes: (float64) 85362,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 409,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff}\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff\x80\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 01:45:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640742332864,
+ RegionID: (uint64) 114,
+ PeerID: (uint64) 115,
+ StoreID: (uint64) 3,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 58,
+ FlowBytes: (float64) 85081,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 407,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff_\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffb\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 01:45:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640742332864,
+ RegionID: (uint64) 136,
+ PeerID: (uint64) 137,
+ StoreID: (uint64) 3,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 58,
+ FlowBytes: (float64) 85353,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 408,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffw\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffz\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 01:45:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640742329731,
+ RegionID: (uint64) 83,
+ PeerID: (uint64) 129,
+ StoreID: (uint64) 1,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 58,
+ FlowBytes: (float64) 82752,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 404,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff;\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff=\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 01:45:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640742329731,
+ RegionID: (uint64) 95,
+ PeerID: (uint64) 113,
+ StoreID: (uint64) 1,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 58,
+ FlowBytes: (float64) 85118,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 407,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffI\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffK\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 01:45:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640742329731,
+ RegionID: (uint64) 103,
+ PeerID: (uint64) 124,
+ StoreID: (uint64) 1,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 58,
+ FlowBytes: (float64) 85624,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 410,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffS\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffV\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 01:45:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640742329731,
+ RegionID: (uint64) 140,
+ PeerID: (uint64) 177,
+ StoreID: (uint64) 1,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 58,
+ FlowBytes: (float64) 85479,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 409,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffz\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff}\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 01:45:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640742329731,
+ RegionID: (uint64) 127,
+ PeerID: (uint64) 168,
+ StoreID: (uint64) 1,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 58,
+ FlowBytes: (float64) 85529,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 409,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffn\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffq\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 01:45:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640742329731,
+ RegionID: (uint64) 100,
+ PeerID: (uint64) 170,
+ StoreID: (uint64) 1,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 58,
+ FlowBytes: (float64) 86316,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 413,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffK\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffS\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 01:45:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640742329731,
+ RegionID: (uint64) 122,
+ PeerID: (uint64) 162,
+ StoreID: (uint64) 1,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 58,
+ FlowBytes: (float64) 86065,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 412,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffh\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffk\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 01:45:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640742329731,
+ RegionID: (uint64) 110,
+ PeerID: (uint64) 173,
+ StoreID: (uint64) 1,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 58,
+ FlowBytes: (float64) 85934,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 411,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff\\\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff_\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 01:45:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640742329731,
+ RegionID: (uint64) 159,
+ PeerID: (uint64) 34854,
+ StoreID: (uint64) 1,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 58,
+ FlowBytes: (float64) 86928,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 416,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff\x92\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff\x95\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 01:45:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640742329731,
+ RegionID: (uint64) 89,
+ PeerID: (uint64) 98,
+ StoreID: (uint64) 1,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 58,
+ FlowBytes: (float64) 85657,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 410,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff?\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffD\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 01:45:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640742329731,
+ RegionID: (uint64) 85,
+ PeerID: (uint64) 166,
+ StoreID: (uint64) 1,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 58,
+ FlowBytes: (float64) 86136,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 412,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff>\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff?\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 01:45:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640742332775,
+ RegionID: (uint64) 117,
+ PeerID: (uint64) 121,
+ StoreID: (uint64) 2,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 58,
+ FlowBytes: (float64) 84691,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 405,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffb\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffe\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 01:45:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640742332775,
+ RegionID: (uint64) 87,
+ PeerID: (uint64) 174,
+ StoreID: (uint64) 2,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 58,
+ FlowBytes: (float64) 85323,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 409,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff=\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff>\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 01:45:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640742332774,
+ RegionID: (uint64) 125,
+ PeerID: (uint64) 161,
+ StoreID: (uint64) 2,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 58,
+ FlowBytes: (float64) 85260,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 408,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffk\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffn\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 01:45:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640742332775,
+ RegionID: (uint64) 107,
+ PeerID: (uint64) 165,
+ StoreID: (uint64) 2,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 58,
+ FlowBytes: (float64) 85354,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 408,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffX\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff\\\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 01:45:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640742332775,
+ RegionID: (uint64) 93,
+ PeerID: (uint64) 94,
+ StoreID: (uint64) 2,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 58,
+ FlowBytes: (float64) 85469,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 409,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffE\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffI\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 01:45:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640742332775,
+ RegionID: (uint64) 119,
+ PeerID: (uint64) 180,
+ StoreID: (uint64) 2,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 58,
+ FlowBytes: (float64) 86145,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 412,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffe\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffh\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 01:45:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640742332775,
+ RegionID: (uint64) 152,
+ PeerID: (uint64) 169,
+ StoreID: (uint64) 2,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 58,
+ FlowBytes: (float64) 85312,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 408,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff\x89\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff\x8c\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 01:45:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640742332775,
+ RegionID: (uint64) 147,
+ PeerID: (uint64) 178,
+ StoreID: (uint64) 2,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 58,
+ FlowBytes: (float64) 85768,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 411,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff\x83\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff\x86\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 01:45:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640742332775,
+ RegionID: (uint64) 134,
+ PeerID: (uint64) 167,
+ StoreID: (uint64) 2,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 58,
+ FlowBytes: (float64) 85937,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 411,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xfft\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffw\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 01:45:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640742332775,
+ RegionID: (uint64) 105,
+ PeerID: (uint64) 151,
+ StoreID: (uint64) 2,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 58,
+ FlowBytes: (float64) 86052,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 412,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffV\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffX\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 01:45:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640742332775,
+ RegionID: (uint64) 91,
+ PeerID: (uint64) 92,
+ StoreID: (uint64) 2,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 58,
+ FlowBytes: (float64) 85989,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 412,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffD\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffE\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 01:55:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640742932862,
+ RegionID: (uint64) 125,
+ PeerID: (uint64) 161,
+ StoreID: (uint64) 2,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 118,
+ FlowBytes: (float64) 0,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 257,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffk\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffn\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 01:55:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640742932862,
+ RegionID: (uint64) 93,
+ PeerID: (uint64) 94,
+ StoreID: (uint64) 2,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 118,
+ FlowBytes: (float64) 0,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 260,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffE\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffI\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 01:55:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640742932862,
+ RegionID: (uint64) 87,
+ PeerID: (uint64) 174,
+ StoreID: (uint64) 2,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 118,
+ FlowBytes: (float64) 0,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 261,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff=\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff>\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 01:55:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640742932862,
+ RegionID: (uint64) 105,
+ PeerID: (uint64) 151,
+ StoreID: (uint64) 2,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 118,
+ FlowBytes: (float64) 0,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 261,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffV\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffX\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 01:55:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640742932862,
+ RegionID: (uint64) 152,
+ PeerID: (uint64) 169,
+ StoreID: (uint64) 2,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 118,
+ FlowBytes: (float64) 0,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 264,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff\x89\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff\x8c\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 01:55:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640742932862,
+ RegionID: (uint64) 119,
+ PeerID: (uint64) 180,
+ StoreID: (uint64) 2,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 118,
+ FlowBytes: (float64) 0,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 264,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffe\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffh\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 01:55:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640742932862,
+ RegionID: (uint64) 107,
+ PeerID: (uint64) 165,
+ StoreID: (uint64) 2,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 118,
+ FlowBytes: (float64) 0,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 261,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffX\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff\\\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 01:55:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640742932862,
+ RegionID: (uint64) 147,
+ PeerID: (uint64) 178,
+ StoreID: (uint64) 2,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 118,
+ FlowBytes: (float64) 0,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 260,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff\x83\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff\x86\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 01:55:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640742932862,
+ RegionID: (uint64) 134,
+ PeerID: (uint64) 167,
+ StoreID: (uint64) 2,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 118,
+ FlowBytes: (float64) 0,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 263,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xfft\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffw\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 01:55:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640742932862,
+ RegionID: (uint64) 117,
+ PeerID: (uint64) 121,
+ StoreID: (uint64) 2,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 118,
+ FlowBytes: (float64) 0,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 261,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffb\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffe\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 01:55:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640742932862,
+ RegionID: (uint64) 91,
+ PeerID: (uint64) 92,
+ StoreID: (uint64) 2,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 118,
+ FlowBytes: (float64) 0,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 264,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffD\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffE\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 01:55:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640742932933,
+ RegionID: (uint64) 157,
+ PeerID: (uint64) 182,
+ StoreID: (uint64) 3,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 118,
+ FlowBytes: (float64) 0,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 263,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff\x8f\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff\x92\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 01:55:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640742932933,
+ RegionID: (uint64) 154,
+ PeerID: (uint64) 155,
+ StoreID: (uint64) 3,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 118,
+ FlowBytes: (float64) 0,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 260,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff\x8c\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff\x8f\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 01:55:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640742932933,
+ RegionID: (uint64) 183,
+ PeerID: (uint64) 184,
+ StoreID: (uint64) 3,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 118,
+ FlowBytes: (float64) 0,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 257,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff\x98\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff\x9b\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 01:55:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640742932933,
+ RegionID: (uint64) 130,
+ PeerID: (uint64) 131,
+ StoreID: (uint64) 3,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 118,
+ FlowBytes: (float64) 0,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 259,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffq\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xfft\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 01:55:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640742932933,
+ RegionID: (uint64) 136,
+ PeerID: (uint64) 137,
+ StoreID: (uint64) 3,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 118,
+ FlowBytes: (float64) 0,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 264,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffw\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffz\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 01:55:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640742932933,
+ RegionID: (uint64) 145,
+ PeerID: (uint64) 146,
+ StoreID: (uint64) 3,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 118,
+ FlowBytes: (float64) 0,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 263,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff\x80\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff\x83\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 01:55:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640742932933,
+ RegionID: (uint64) 149,
+ PeerID: (uint64) 181,
+ StoreID: (uint64) 3,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 118,
+ FlowBytes: (float64) 0,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 264,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff\x86\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff\x89\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 01:55:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640742932933,
+ RegionID: (uint64) 114,
+ PeerID: (uint64) 115,
+ StoreID: (uint64) 3,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 118,
+ FlowBytes: (float64) 0,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 262,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff_\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffb\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 01:55:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640742932933,
+ RegionID: (uint64) 143,
+ PeerID: (uint64) 144,
+ StoreID: (uint64) 3,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 118,
+ FlowBytes: (float64) 0,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 264,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff}\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff\x80\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 01:55:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640742932933,
+ RegionID: (uint64) 163,
+ PeerID: (uint64) 164,
+ StoreID: (uint64) 3,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 118,
+ FlowBytes: (float64) 0,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 261,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff\x95\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff\x98\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 01:55:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640742929824,
+ RegionID: (uint64) 95,
+ PeerID: (uint64) 113,
+ StoreID: (uint64) 1,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 118,
+ FlowBytes: (float64) 0,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 256,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffI\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffK\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 01:55:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640742929824,
+ RegionID: (uint64) 100,
+ PeerID: (uint64) 170,
+ StoreID: (uint64) 1,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 118,
+ FlowBytes: (float64) 0,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 261,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffK\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffS\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 01:55:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640742929824,
+ RegionID: (uint64) 122,
+ PeerID: (uint64) 162,
+ StoreID: (uint64) 1,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 118,
+ FlowBytes: (float64) 0,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 263,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffh\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffk\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 01:55:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640742929824,
+ RegionID: (uint64) 127,
+ PeerID: (uint64) 168,
+ StoreID: (uint64) 1,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 118,
+ FlowBytes: (float64) 0,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 263,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffn\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffq\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 01:55:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640742929824,
+ RegionID: (uint64) 110,
+ PeerID: (uint64) 173,
+ StoreID: (uint64) 1,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 118,
+ FlowBytes: (float64) 0,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 260,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff\\\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff_\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 01:55:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640742929824,
+ RegionID: (uint64) 103,
+ PeerID: (uint64) 124,
+ StoreID: (uint64) 1,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 118,
+ FlowBytes: (float64) 0,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 263,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffS\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffV\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 01:55:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640742929824,
+ RegionID: (uint64) 85,
+ PeerID: (uint64) 166,
+ StoreID: (uint64) 1,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 118,
+ FlowBytes: (float64) 0,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 260,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff>\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff?\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 01:55:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640742929824,
+ RegionID: (uint64) 140,
+ PeerID: (uint64) 177,
+ StoreID: (uint64) 1,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 118,
+ FlowBytes: (float64) 0,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 260,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffz\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff}\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 01:55:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640742929824,
+ RegionID: (uint64) 159,
+ PeerID: (uint64) 34854,
+ StoreID: (uint64) 1,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 118,
+ FlowBytes: (float64) 0,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 259,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff\x92\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff\x95\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 01:55:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640742929824,
+ RegionID: (uint64) 83,
+ PeerID: (uint64) 129,
+ StoreID: (uint64) 1,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 118,
+ FlowBytes: (float64) 0,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 261,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff;\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff=\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 01:55:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640742929824,
+ RegionID: (uint64) 89,
+ PeerID: (uint64) 98,
+ StoreID: (uint64) 1,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 118,
+ FlowBytes: (float64) 0,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 261,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff?\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffD\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 02:05:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640743534392,
+ RegionID: (uint64) 157,
+ PeerID: (uint64) 182,
+ StoreID: (uint64) 3,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 178,
+ FlowBytes: (float64) 0,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 287,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff\x8f\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff\x92\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 02:05:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640743534393,
+ RegionID: (uint64) 154,
+ PeerID: (uint64) 155,
+ StoreID: (uint64) 3,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 178,
+ FlowBytes: (float64) 0,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 274,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff\x8c\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff\x8f\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 02:05:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640743534393,
+ RegionID: (uint64) 183,
+ PeerID: (uint64) 184,
+ StoreID: (uint64) 3,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 178,
+ FlowBytes: (float64) 0,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 277,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff\x98\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff\x9b\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 02:05:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640743534393,
+ RegionID: (uint64) 130,
+ PeerID: (uint64) 131,
+ StoreID: (uint64) 3,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 178,
+ FlowBytes: (float64) 0,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 271,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffq\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xfft\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 02:05:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640743534393,
+ RegionID: (uint64) 136,
+ PeerID: (uint64) 137,
+ StoreID: (uint64) 3,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 178,
+ FlowBytes: (float64) 0,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 281,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffw\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffz\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 02:05:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640743534393,
+ RegionID: (uint64) 145,
+ PeerID: (uint64) 146,
+ StoreID: (uint64) 3,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 178,
+ FlowBytes: (float64) 0,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 280,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff\x80\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff\x83\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 02:05:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640743534393,
+ RegionID: (uint64) 149,
+ PeerID: (uint64) 181,
+ StoreID: (uint64) 3,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 178,
+ FlowBytes: (float64) 0,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 294,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff\x86\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff\x89\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 02:05:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640743534393,
+ RegionID: (uint64) 114,
+ PeerID: (uint64) 115,
+ StoreID: (uint64) 3,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 178,
+ FlowBytes: (float64) 0,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 286,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff_\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffb\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 02:05:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640743534393,
+ RegionID: (uint64) 143,
+ PeerID: (uint64) 144,
+ StoreID: (uint64) 3,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 178,
+ FlowBytes: (float64) 0,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 290,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff}\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff\x80\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 02:05:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640743534393,
+ RegionID: (uint64) 163,
+ PeerID: (uint64) 164,
+ StoreID: (uint64) 3,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 178,
+ FlowBytes: (float64) 0,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 287,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff\x95\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff\x98\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 02:05:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640743533680,
+ RegionID: (uint64) 95,
+ PeerID: (uint64) 113,
+ StoreID: (uint64) 1,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 178,
+ FlowBytes: (float64) 0,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 293,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffI\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffK\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 02:05:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640743533680,
+ RegionID: (uint64) 100,
+ PeerID: (uint64) 170,
+ StoreID: (uint64) 1,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 178,
+ FlowBytes: (float64) 0,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 291,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffK\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffS\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 02:05:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640743533680,
+ RegionID: (uint64) 122,
+ PeerID: (uint64) 162,
+ StoreID: (uint64) 1,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 178,
+ FlowBytes: (float64) 0,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 281,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffh\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffk\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 02:05:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640743533680,
+ RegionID: (uint64) 127,
+ PeerID: (uint64) 168,
+ StoreID: (uint64) 1,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 178,
+ FlowBytes: (float64) 0,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 283,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffn\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffq\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 02:05:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640743533680,
+ RegionID: (uint64) 110,
+ PeerID: (uint64) 173,
+ StoreID: (uint64) 1,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 178,
+ FlowBytes: (float64) 0,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 288,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff\\\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff_\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 02:05:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640743533680,
+ RegionID: (uint64) 103,
+ PeerID: (uint64) 124,
+ StoreID: (uint64) 1,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 178,
+ FlowBytes: (float64) 0,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 284,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffS\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffV\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 02:05:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640743533680,
+ RegionID: (uint64) 85,
+ PeerID: (uint64) 166,
+ StoreID: (uint64) 1,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 178,
+ FlowBytes: (float64) 0,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 286,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff>\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff?\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 02:05:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640743533680,
+ RegionID: (uint64) 140,
+ PeerID: (uint64) 177,
+ StoreID: (uint64) 1,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 178,
+ FlowBytes: (float64) 0,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 281,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffz\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff}\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 02:05:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640743533680,
+ RegionID: (uint64) 159,
+ PeerID: (uint64) 34854,
+ StoreID: (uint64) 1,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 178,
+ FlowBytes: (float64) 0,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 291,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff\x92\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff\x95\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 02:05:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640743533680,
+ RegionID: (uint64) 83,
+ PeerID: (uint64) 129,
+ StoreID: (uint64) 1,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 178,
+ FlowBytes: (float64) 0,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 291,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff;\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff=\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 02:05:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640743533680,
+ RegionID: (uint64) 89,
+ PeerID: (uint64) 98,
+ StoreID: (uint64) 1,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 178,
+ FlowBytes: (float64) 0,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 283,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff?\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffD\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 02:05:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640743526015,
+ RegionID: (uint64) 125,
+ PeerID: (uint64) 161,
+ StoreID: (uint64) 2,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 177,
+ FlowBytes: (float64) 0,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 274,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffk\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffn\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 02:05:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640743526015,
+ RegionID: (uint64) 93,
+ PeerID: (uint64) 94,
+ StoreID: (uint64) 2,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 177,
+ FlowBytes: (float64) 0,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 271,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffE\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffI\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 02:05:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640743526015,
+ RegionID: (uint64) 87,
+ PeerID: (uint64) 174,
+ StoreID: (uint64) 2,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 177,
+ FlowBytes: (float64) 0,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 266,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff=\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff>\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 02:05:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640743526015,
+ RegionID: (uint64) 105,
+ PeerID: (uint64) 151,
+ StoreID: (uint64) 2,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 177,
+ FlowBytes: (float64) 0,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 283,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffV\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffX\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 02:05:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640743526015,
+ RegionID: (uint64) 152,
+ PeerID: (uint64) 169,
+ StoreID: (uint64) 2,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 177,
+ FlowBytes: (float64) 0,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 274,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff\x89\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff\x8c\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 02:05:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640743526015,
+ RegionID: (uint64) 119,
+ PeerID: (uint64) 180,
+ StoreID: (uint64) 2,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 177,
+ FlowBytes: (float64) 0,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 269,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffe\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffh\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 02:05:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640743526015,
+ RegionID: (uint64) 107,
+ PeerID: (uint64) 165,
+ StoreID: (uint64) 2,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 177,
+ FlowBytes: (float64) 0,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 274,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffX\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff\\\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 02:05:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640743526015,
+ RegionID: (uint64) 147,
+ PeerID: (uint64) 178,
+ StoreID: (uint64) 2,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 177,
+ FlowBytes: (float64) 0,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 274,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff\x83\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xff\x86\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 02:05:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640743526015,
+ RegionID: (uint64) 134,
+ PeerID: (uint64) 167,
+ StoreID: (uint64) 2,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 177,
+ FlowBytes: (float64) 0,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 264,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xfft\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffw\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 02:05:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640743526015,
+ RegionID: (uint64) 117,
+ PeerID: (uint64) 121,
+ StoreID: (uint64) 2,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 177,
+ FlowBytes: (float64) 0,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 282,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffb\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffe\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
+[qSkipTool]2021/12/29 02:05:34 handler.go:1030: (core.HistoryHotRegion) {
+ UpdateTime: (int64) 1640743526015,
+ RegionID: (uint64) 91,
+ PeerID: (uint64) 92,
+ StoreID: (uint64) 2,
+ IsLeader: (bool) true,
+ IsLearner: (bool) false,
+ HotRegionType: (string) (len=4) "read",
+ HotDegree: (int64) 177,
+ FlowBytes: (float64) 0,
+ KeyRate: (float64) 0,
+ QueryRate: (float64) 278,
+ StartKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffD\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EndKey: (string) (len=18) "t\x80\x00\x00\x00\x00\x00\x00\xffE\x00\x00\x00\x00\x00\x00\x00\xf8",
+ EncryptionMeta: (*encryptionpb.EncryptionMeta)(<nil>)
+}
+
