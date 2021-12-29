@@ -1,7 +1,8 @@
 * Discussion in [TiDB_Hot_Regions_History PR](https://github.com/pingcap/tidb/pull/30500)
 * Observation: KeyRate is always 0.
 ` KeyRate: (float64) 0,`
-log code `server/handler.go/packHotRegions`:
+
+* log code `server/handler.go/packHotRegions`:
 ```go
 func (h *Handler) packHotRegions(hotPeersStat statistics.StoreHotPeersStat, hotRegionType string) (historyHotRegions []core.HistoryHotRegion, err error) {
 	c, err := h.GetRaftCluster()
